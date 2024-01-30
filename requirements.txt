@@ -1,0 +1,6 @@
+Brotli
+bs4
+click
+lxml
+requests
+setuptools
